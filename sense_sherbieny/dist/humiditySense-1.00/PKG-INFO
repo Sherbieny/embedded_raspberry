@@ -1,0 +1,13 @@
+Metadata-Version: 1.0
+Name: humiditySense
+Version: 1.00
+Summary: accessing the HTS221 Humidity/temprature sensor on sense-hat
+Home-page: https://github.com/Sherbieny/embedded_raspberry
+Author: Eslam El-Sherbieny
+Author-email: sherbieny@outlook.com
+License: UNKNOWN
+Description: This package is a learning attempt to create a python distutil
+                                that contain a program that access and manipulates the RaspberryPI 
+                                sense hat HTS221 sensor through I2C addresses and doing some actions 
+                                on it hopefully...
+Platform: UNKNOWN
